@@ -2,7 +2,8 @@
 
 Hello! Thank you for being here.
 My name is Dorofeev Matvey Alexandrovich.
-
+telegram: @bonis_auspiciis
+instagram: @bonis_auspiciis
 
 **My hard skills:**
 
@@ -17,5 +18,3 @@ My name is Dorofeev Matvey Alexandrovich.
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
 
 </p>
-
-*My soft skill*
