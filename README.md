@@ -18,5 +18,3 @@ instagram: @bonis_auspiciis
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
 
 </p>
-
-https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
