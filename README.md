@@ -16,5 +16,5 @@ instagram: @bonis_auspiciis
   <img src="https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=Postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Mysql-blue?style=for-the-badge&logo=Mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/RubyOnRails-red?style=for-the-badge&logo=rubyonrails&logoColor=white" />
 </p>
